@@ -1,0 +1,24 @@
+h1 {
+  font-family: verdana;
+  color: red;  
+  text-align: center; 
+  background: lightgreen;
+  border-radius: 20px;
+}
+	  
+div {
+  width: 250px;
+  border: 15px solid green;
+  border-radius: 20px;
+  padding: 50px;
+  margin: 12px;
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-family: verdana;
+  font-size: 20px;
+  position: relative;
+  top: -40px
+}

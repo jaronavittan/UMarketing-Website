@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome!</title>
+</head>
+<body>
+<h1 id="welcome">UMarketing</h1>
+  <div class="btn" role="button" style="width: 100px; float:left; height:50px; background: darkred; margin:10px">  
+    <p>Add-your-Add HERE!</p>
+  </div>
+  <div class="btn" role="button" style="width: 100px; float:left; height:50px; background: darkred; margin:10px">
+    <p>My Adds</p>
+  </div>
+    <div class="btn" role="button" style="width: 100px; float:left; height:50px; background: darkred; margin:10px">
+    <p>Add Views/Clicks</p>
+  </div>    
+    <div class="btn" role="button" style="width: 100px; float:left; height:50px; background: darkred; margin:10px">
+    <p>Add Influenced Purchases</p>
+  </div>    
+</body>
+</html>
